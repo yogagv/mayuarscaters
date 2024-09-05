@@ -1,0 +1,24 @@
+.service {
+
+    color: #271450;
+}
+
+.cardtitle {
+
+    color: #271450;
+}
+
+.card img{
+
+    height: 12rem;
+    filter: brightness(70%);
+}
+
+.cardtext h4 {
+
+    position: absolute;
+    bottom: 30px;
+    left: 50px;
+    color: white;
+
+}

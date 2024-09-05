@@ -1,0 +1,42 @@
+.hero_one:hover, .hero_two:hover, .hero_three:hover, 
+.hero_four:hover,.hero_five:hover,.hero_six:hover,
+.hero_seven:hover,.hero_eight:hover
+{
+    transform: scale(1.1);
+}
+
+/* .hero_one, .hero_three {
+
+    width: 80%;
+    height: 400px;
+    border-radius: 10px;
+
+}
+
+.hero_five, .hero_two, .hero_four, .hero_seven {
+
+    width: 80%;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 250px;
+}
+
+.hero_six, .hero_eight {
+
+    
+    width: 80%;
+    height: 400px;
+    border-radius: 10px;
+
+} */
+
+img {
+
+    width: 80%;
+    border-radius: 10px;
+}
+
+.gallerytext {
+
+    color: #c9af7f;
+}
