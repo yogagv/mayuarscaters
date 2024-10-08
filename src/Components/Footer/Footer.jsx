@@ -75,7 +75,7 @@ const Footer = () => {
       </h6>
       <h6 className='mt-3 ms-2 text-light'>
       <span className='contact'><FaPhone />  </span>   
-         Contact: <span className='text-light fw-normal' style={{color:"#768BA4"}}>+91 8248181141<br/><span className='contact_one'>+91 8072880531</span>
+         Contact: <span className='text-light fw-normal' style={{color:"#768BA4"}}>+91 8668155546<br/><span className='contact_one'>+91 8072880531</span>
          <br/><span className='contact_one'>+91 8754656185</span></span>
       </h6>
       </div>
