@@ -45,7 +45,7 @@ const Header = () => {
             <div className="row">
             <div className="col-md-6 icon">
                 <FaPhone className='mt-3'/> 
-                 <span className='ms-2 phone text-bold'>+91 8248181141 <br /> +91 8072880531 <br /> +91 8754656185</span>
+                 <span className='ms-2 phone text-bold'>+91 8668155546 <br /> +91 8072880531 <br /> +91 8754656185</span>
             </div>
             </div>
           </Container>

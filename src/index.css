@@ -18,7 +18,8 @@ code {
     /* styles for devices with a minimum screen width of 480px */
     }
     
-    @media only screen and (max-width: 480px) {
+    @media only screen and (max-width: 768px) {
+      font-size: 14px;
     /* styles for devices with a maximum screen width of 480px */
     }
 
@@ -43,4 +44,6 @@ code {
         @media only screen and (orientation: landscape) {
         /* styles for landscape orientation */
         }
+
+        box-sizing: border-box;
 }
